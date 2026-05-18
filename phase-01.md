@@ -8,10 +8,6 @@ Set up a clean Python development workspace for the capstone activity.
 
 A fork is your own copy of someone else's GitHub repository. We use a fork so you can safely make changes, commit your work, and push to your own GitHub account without changing the instructor repository.
 
->  [!TIP]
->
-> You should work in your own fork because you will not have permission to push changes directly to the instructor repository.
-
 ## Steps
 
 1. Make sure Python is installed on your computer and your GitHub account is ready in your browser.
@@ -21,12 +17,10 @@ A fork is your own copy of someone else's GitHub repository. We use a fork so yo
 Click **Fork** on the instructor repository.
 
 ![Fork the repository on GitHub](assets/how-to-fork.png)
-*Figure 1: Click **Fork** on the instructor repository.*
 
 On the next screen, choose your GitHub account as the owner and click **Create fork**.
 
 ![Create a new fork on GitHub](assets/create-fork.png)
-*Figure 2: Create the fork under your own GitHub account.*
 
 3. On your computer, open a new, fresh VS Code window.
 
@@ -35,7 +29,6 @@ On the next screen, choose your GitHub account as the owner and click **Create f
 After GitHub creates your fork, copy the HTTPS clone URL from your own repository. Make sure the URL contains your GitHub username.
 
 ![Clone your forked repository](assets/clone-your-repo.png)
-*Figure 3: Copy the clone URL from your fork, not the instructor repository.*
 
 Then run:
 

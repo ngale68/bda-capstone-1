@@ -47,7 +47,6 @@ Add `steliosot@msn.com` as a collaborator on your GitHub fork.
 Use the screenshot below as a guide:
 
 ![Add collaborator on GitHub](assets/add-collaborator-github.png)
-*Figure 1: Add Stelios as a collaborator on your GitHub fork.*
 
 ## Checkpoint
 

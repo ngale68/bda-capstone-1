@@ -49,10 +49,8 @@ If GitHub does not show the email address in the assignee search, search for the
 Use the screenshots below as a guide:
 
 ![Create a GitHub issue](assets/create-issue.png)
-*Figure 1: Click **New issue** from the Issues tab.*
 
 ![Assign a GitHub issue](assets/assign-issue.png)
-*Figure 2: Add a title, write a short request for feedback, and assign the issue to Stelios.*
 
 ## Example issue title
 
